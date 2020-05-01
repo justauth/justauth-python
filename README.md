@@ -30,6 +30,7 @@ JustAuth 到如今以获得关注：![](https://img.shields.io/github/stars/zhan
  
 ## 未开始
 
- [Python 版](https://github.com/justauth/JustAuth)（未开始）
- [Go 版](https://github.com/justauth/JustAuth)（未开始）
- [Node 版](https://github.com/justauth/JustAuth)（未开始）
+ [Python 版](https://github.com/justauth/justauth-python)（未开始）
+ [Go 版](https://github.com/justauth/justauth-go)（未开始）
+ [Node 版](https://github.com/justauth/justauth-node)（未开始）
+ [PHP 版](https://github.com/justauth/justauth-php)（未开始）
