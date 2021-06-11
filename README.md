@@ -8,6 +8,11 @@ JustAuth 到如今以获得关注：![](https://img.shields.io/github/stars/zhan
 
 如果你对 JustAuth 感兴趣，如果你对开源比较感兴趣，那么我们期待你的参与。
 
+# TODO
+
+- [x] 完成基础代码结构
+- [x] 完成Github授权登录url
+
 
 # 参与步骤
 
